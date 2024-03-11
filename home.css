@@ -1,0 +1,45 @@
+.svg-green{
+    margin-top: -4%;
+  margin-left: -8vw;
+}
+
+.container{
+    margin-top: -7em;
+}
+
+.title{
+    font-family: 'Pacifico', cursive;
+  color: #00c481;
+}
+
+.col-title{
+    display: flex;
+    justify-content: center;
+}
+
+.col-video{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.button-col{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.prototyp-b{
+    background-color: #00c481;
+    color: white;
+    border: 2px solid #00c481(25, 4, 130, 0.2);
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.prototyp-b:hover{
+    background-color: white;
+    color: #00c481;
+    border-color: #00c481;
+}
